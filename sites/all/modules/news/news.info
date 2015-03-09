@@ -1,5 +1,5 @@
-name = news
-description = news
+name = Ruokalista
+description = ruoat
 core = 7.x
 package = Features
 dependencies[] = features
